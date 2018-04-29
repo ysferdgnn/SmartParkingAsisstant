@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Black">#000000</color>
+    <color name="jacksonpurple">#40407a</color>
+    <color name="luckypoint">#2c2c54</color>
+    <color name="harleyorange">#c23616</color>
+    <color name="jalapenored">#b71540</color>
+    <color name="tomatored">#eb2f06</color>
+</resources>

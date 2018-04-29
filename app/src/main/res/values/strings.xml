@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GoogleMapsExample2</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="nametexteng">name: </string>
+    <string name="emailtexteng">email: </string>
+    <string name="passwordtexteng">password: </string>
+    <string name="emailtextretryeng">email: </string>
+
+    <string name="examplename">Yusuf Erdoğan</string>
+    <string name="exampleemail">ysferdgn@siirt.edu.tr</string>
+    <string name="examplepassword">********</string>
+
+</resources>
